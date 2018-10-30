@@ -1,0 +1,5 @@
+React elements are immutable. Once you create an element, you can’t change its children or attributes.
+the only way to update the UI is to create a new element, and pass it to ReactDOM.render().
+
+ an immutable object (unchangeable[1] object) is an object whose state cannot be modified after it is created
+ 
